@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+openai
+python-multipart
+sqlalchemy
+pydantic
+ffmpeg-python
+psycopg2-binary
+python-dotenv
