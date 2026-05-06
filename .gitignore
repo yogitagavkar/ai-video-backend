@@ -1,1 +1,16 @@
-uploads/  → ignore entire folder + all files inside
+# uploads
+uploads/
+
+# env
+.env
+
+# python
+__pycache__/
+*.pyc
+
+# virtual env
+venv/
+.env/
+
+# OS files
+.DS_Store
